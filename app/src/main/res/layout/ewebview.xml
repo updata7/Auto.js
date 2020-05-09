@@ -5,16 +5,16 @@
        android:layout_height="match_parent">
 
 
-    <org.autojs.autojs.theme.widget.ThemeColorSwipeRefreshLayout
+    <org.as.awesome.theme.widget.ThemeColorSwipeRefreshLayout
         android:id="@+id/swipe_refresh_layout"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <org.autojs.autojs.ui.widget.NestedWebView
+        <org.as.awesome.ui.widget.NestedWebView
             android:id="@+id/web_view"
             android:layout_width="match_parent"
             android:layout_height="match_parent"/>
-    </org.autojs.autojs.theme.widget.ThemeColorSwipeRefreshLayout>
+    </org.as.awesome.theme.widget.ThemeColorSwipeRefreshLayout>
 
     <ProgressBar
         android:id="@+id/progress_bar"

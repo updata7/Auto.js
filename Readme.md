@@ -4,7 +4,7 @@
 
 同时有[VS Code 插件](https://github.com/hyb1996/Auto.js-VSCode-Extension)可提供基础的在桌面开发的功能。
 
-下载地址：[酷安](http://www.coolapk.com/apk/org.autojs.autojs)
+下载地址：[酷安](http://www.coolapk.com/apk/org.as.awesome)
 
 Alpha版本：[Releases](https://github.com/hyb1996/NoRootScriptDroid/releases)
 
