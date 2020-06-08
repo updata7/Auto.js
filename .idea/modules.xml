@@ -7,12 +7,12 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/autojs/autojs.iml" filepath="$PROJECT_DIR$/autojs/autojs.iml" />
       <module fileurl="file://$PROJECT_DIR$/automator/automator.iml" filepath="$PROJECT_DIR$/automator/automator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ck-Auto.iml" filepath="$PROJECT_DIR$/ck-Auto.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/ck-Auto-app.iml" filepath="$PROJECT_DIR$/app/ck-Auto-app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/autojs/ck-Auto-autojs.iml" filepath="$PROJECT_DIR$/autojs/ck-Auto-autojs.iml" />
-      <module fileurl="file://$PROJECT_DIR$/automator/ck-Auto-automator.iml" filepath="$PROJECT_DIR$/automator/ck-Auto-automator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/common/ck-Auto-common.iml" filepath="$PROJECT_DIR$/common/ck-Auto-common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/inrt/ck-Auto-inrt.iml" filepath="$PROJECT_DIR$/inrt/ck-Auto-inrt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ck-Auto.iml" filepath="$PROJECT_DIR$/ck-Auto.iml" group="ck-Auto" />
+      <module fileurl="file://$PROJECT_DIR$/app/ck-Auto-app.iml" filepath="$PROJECT_DIR$/app/ck-Auto-app.iml" group="ck-Auto/app" />
+      <module fileurl="file://$PROJECT_DIR$/autojs/ck-Auto-autojs.iml" filepath="$PROJECT_DIR$/autojs/ck-Auto-autojs.iml" group="ck-Auto/autojs" />
+      <module fileurl="file://$PROJECT_DIR$/automator/ck-Auto-automator.iml" filepath="$PROJECT_DIR$/automator/ck-Auto-automator.iml" group="ck-Auto/automator" />
+      <module fileurl="file://$PROJECT_DIR$/common/ck-Auto-common.iml" filepath="$PROJECT_DIR$/common/ck-Auto-common.iml" group="ck-Auto/common" />
+      <module fileurl="file://$PROJECT_DIR$/inrt/ck-Auto-inrt.iml" filepath="$PROJECT_DIR$/inrt/ck-Auto-inrt.iml" group="ck-Auto/inrt" />
       <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/inrt/inrt.iml" filepath="$PROJECT_DIR$/inrt/inrt.iml" />
     </modules>
